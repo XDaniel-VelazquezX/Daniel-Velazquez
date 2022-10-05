@@ -7,9 +7,9 @@ converting the blinds to a automated/controlled system.
 
 **Initial Parameters**
 
-	* Preferably an IOT system that can be controlled
-		* BT control
-		* Wi-Fi control
+* Preferably an IOT system that can be controlled
+	* BT control
+	* Wi-Fi control
 	* Can open and close blinds to users desired setting
 	* Blind rotation(where aplicable) is in consideration.
 	* Dev-Kit designed
@@ -18,19 +18,19 @@ converting the blinds to a automated/controlled system.
 		
 **Some things to consider** 
 
-	* Cost of parts.
-	* Time to completion.
-	* Method of power.
-		* Outlet/Power Cord
-		* Battery Powered
-	* Method of control.
-		* Chip/Board choice
-		* OTA
-		* Wired
-	* Selection of motor
-		* Type of motor
-		* Size of motor
-		* Amount of torque needed
+* Cost of parts.
+* Time to completion.
+* Method of power.
+	* Outlet/Power Cord
+	* Battery Powered
+* Method of control.
+	* Chip/Board choice
+	* OTA
+	* Wired
+* Selection of motor
+	* Type of motor
+	* Size of motor
+	* Amount of torque needed
 #		
 ## METHODS OF COMPLETION
 
@@ -39,5 +39,4 @@ converting the blinds to a automated/controlled system.
 **Local Bluetooth or Wi-Fi**
 
 **Local wired input control.**
-
 
