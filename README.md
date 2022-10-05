@@ -6,6 +6,7 @@ we are a Electrical Engineering company, we have taken on the challenge of
 converting the blinds to a automated/controlled system.
 
 **Initial Parameters**
+
 	* Preferably an IOT system that can be controlled
 		* BT control
 		* Wi-Fi control
@@ -16,6 +17,7 @@ converting the blinds to a automated/controlled system.
 		* Goal to be non-chip/board dependent
 		
 **Some things to consider** 
+
 	* Cost of parts.
 	* Time to completion.
 	* Method of power.
@@ -37,4 +39,5 @@ converting the blinds to a automated/controlled system.
 **Local Bluetooth or Wi-Fi**
 
 **Local wired input control.**
-##
+
+
