@@ -32,7 +32,7 @@ converting the blinds to a automated/controlled system.
 #		
 ## METHODS OF COMPLETION
 
-**Zephyr/ Golioth/ iot **
+**Zephyr/ Golioth/ iot**
 
 **Local Bluetooth or Wi-Fi**
 
