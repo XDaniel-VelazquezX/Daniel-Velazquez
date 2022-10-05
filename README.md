@@ -29,7 +29,7 @@ converting the blinds to a automated/controlled system.
 		* Type of motor
 		* Size of motor
 		* Amount of torque needed
-		
+#		
 ##METHODS OF COMPLETION
 
 **Zephyr/ Golioth/ iot **
